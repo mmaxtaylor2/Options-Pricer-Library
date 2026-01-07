@@ -10,6 +10,10 @@ Monte Carlo simulation using GBM terminal distribution with variance reduction
 
 The models are benchmarked against each other to demonstrate numerical convergence.
 
+## Problem Context
+
+Option pricing models are often taught in isolation, which can obscure the trade-offs between analytical solutions and numerical approximations. This project was built to compare closed-form and simulation-based pricing methods within a single, consistent framework, emphasizing model validation, convergence behavior, and practical implementation considerations.
+
 ## Why This Project Matters
 
 This toolkit demonstrates:
